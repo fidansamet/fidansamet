@@ -1,13 +1,8 @@
-### Hello world, I am Fidan :wave:
+### Hello, world! I am Fidan :wave:
 
-I am a senior Computer Engineering student at [Hacettepe University](https://www.cs.hacettepe.edu.tr/), Ankara, Turkey. I have experience in mobile applications, computer graphics, computer vision and machine learning. I specialize on and have strong interest in computer vision, deep learning and their applications.
+I obtained my bachelor's degree from [Hacettepe University Computer Science & Engineering](https://www.cs.hacettepe.edu.tr/). I am currently working as a software engineer at [Plentific](https://www.plentific.com/) and continuing my research on *animation-to-cartoon transfer* and *musical style transfer* topics.
 
-I am currently:  
-• Working on **Sketch to Sketch Translation Using Reinforcement Learning** through [DREAM: Undergraduate Research Experience Program](http://dream.cs.hacettepe.edu.tr/).  
-• Working on **Animation to Sketch Translation** for design project with my teammate [Oğuz Bakır](https://github.com/oguzbakir).  
-• Participating in [AI Labs Joint Program](https://inzva.com/ai/2020/ai-labs-joint-program) on **Computer Vision for Autonomous Driving** organized by [inzva](https://inzva.com/) and [Koç KUIS AI Lab](https://ai.ku.edu.tr/).
-
-I like to improve myself and learn new things. Apart from being a student and a developer, I enjoy playing piano, doing yoga, traveling and playing sports.
+As a dedicated and motivated software engineer, I love exploring different fields and new technologies. I have experience in *mobile/desktop applications*, *computer graphics*, *computer vision*, *machine/deep learning* and *backend development*. My career goal is to leverage my experience and increase my knowledge in computer science while facing new challenges.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fidansamet/"><img alt="LinkedIn" width="35" height="35" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>
